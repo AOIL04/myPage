@@ -1,0 +1,14 @@
+body { 
+    background-color: aquamarine;
+}
+
+h1{
+    color: blueviolet;
+    font-size 72px; ;
+    text-align: center;
+}
+
+.txtRight {
+  font-style: italic;
+  text-align: right;
+}
